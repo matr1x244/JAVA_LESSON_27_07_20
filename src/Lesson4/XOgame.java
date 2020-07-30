@@ -1,6 +1,5 @@
 package Lesson4;
 
-import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -116,7 +115,7 @@ public class XOgame {
     }
 
 
-    public static boolean checkWin(char c) { // проверка победителей ?????!!!!! 
+    public static boolean checkWin(char c) { // проверка победителей ?????!!!!!
 
         int diagonal1;
         int diagonal2;
